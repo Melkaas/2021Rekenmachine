@@ -3,4 +3,3 @@ public class Main {
         JavaFXApp.main (args);
     }
 }
-System.out.println("Bababooey");
